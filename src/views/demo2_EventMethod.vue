@@ -27,9 +27,6 @@ export default {
     clickme2(massage){
         alert(massage)
     },
-    clickme3(massage){
-        alert(massage)
-    },
     gettimetamp(){
         return Date()
     }
