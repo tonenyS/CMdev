@@ -1,7 +1,7 @@
 <template>
 <div>
     <h1>
-      <h1>หน้า HOME </h1>
+      <h1 class="colorG">หน้า HOME </h1>
     </h1>
     
   </div>
@@ -18,3 +18,8 @@ export default {
   }
 }
 </script>
+<style scoped>
+  .colorG{
+     font-size:40px;
+ }
+</style>
