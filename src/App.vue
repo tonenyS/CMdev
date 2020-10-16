@@ -10,13 +10,13 @@
     <div class="collapse navbar-collapse" id="collapsibleNavId">
         <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
             <li class="nav-item active">
-                <a class="nav-link" href="/demo1">Demo1 <span class="sr-only">(current)</span></a>
+                <a class="nav-link" href="/demo1">Demo1_intro <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="/demo2">Demo2</a>
+                <a class="nav-link" href="/demo2">Demo2_EventMethod</a>
             </li>
              <li class="nav-item">
-                <a class="nav-link" href="/demo3">Demo3</a>
+                <a class="nav-link" href="/demo3">Demo3_Data</a>
             </li>
         </ul>
         <form class="form-inline my-2 my-lg-0">
